@@ -1,0 +1,39 @@
+# Food List
+
+- [ ] Breakfast (5x)
+  - [ ] Granola
+  - [x] Dried Milk
+  - [x] Arab Coffee
+- [ ] Lunch (6x)
+  - [ ] Hardy Bread (3x)
+  - [ ] Tortillas (3x)
+  - [ ] Cheese (1.5lb total)
+  - [ ] Mustard
+  - [ ] Nut Butters
+  - [ ] Dried Meat
+  - [ ] Jam
+- [ ] Snacks (6x)
+  - [ ] Fresh Apples
+  - [ ] Trail Mix
+    - [x] Dried Fruit
+    - [ ] Nuts
+  - [x] Bars
+  - [ ] Halva
+- [ ] Dinners (5x)
+  - [ ] Spaghetti and Red Sauce (2x)
+    - [x] Red Sauce
+    - [ ] Spaghetti
+  - [ ] Chili Tacos (2x)
+    - [x] Dehydrated Chili
+    - [ ] Corn Tortillas
+    - [ ] Hella Cheese
+    - [ ] Rice
+  - [ ] Spinach Fettuccine and Pesto (1x)
+    - [ ] Spinach Fettuccine
+    - [ ] Hella Parmesan
+    - [x] Alfredo Packets
+    - [x] Oil
+- [ ] Post Dinner
+  - [x] Herbal Tea
+  - [ ] Dark Chocolate
+  - [ ] Hot coco
